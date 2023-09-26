@@ -16,6 +16,24 @@ public class VariableNotation {
 		int class = 50; //this is incorrect as class is keyword
 
 		int j = 70; //this is correct
+		
+		int 1st=10;
+		
+		int $12 = 34;
+		
+		int _123 = 45; 
+		
+		int r12@ = 34;
+		
+		int =123 = 67; 
+		
+		int int = 20;
+		
+		int goto = 30;
+		
+		int default = 40; 
+		
+		int class = 50;
 
 
 	}
